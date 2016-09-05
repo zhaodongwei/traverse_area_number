@@ -10,6 +10,6 @@
 2. 下载label.txt(sz data/label.txt)， 添加图片对应的标注(在第6列添加对应的明文)
 3. 拷贝excel中全部内容至本地环境的data/label.res
 4. sh run.sh step2
-5. 下载final.txt(sz finale.txt)，用excel打开即可
+5. 下载final.txt(sz data/final.txt)，用excel打开即可
 
 如有任何问题， 请联系 zhaodw@outlook.com
