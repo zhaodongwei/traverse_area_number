@@ -39,7 +39,7 @@ while len(candi_list) > 0:
     for line in html.split('\n'):
         try:
             if len(line) > 1 and line.index('dhpic') and line.index('gif'):
-                print "%s\t%s\n" % (phone, line)
+                print "%s\t%s\n" % (cphone, line)
         except:
             continue
 
